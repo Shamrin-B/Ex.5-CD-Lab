@@ -1,9 +1,9 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
-## Name : Madhesh I
-## Register Number:212224220055
+## Name : SHAMRIN B
+## Register Number:212224040306
 
-## Date:19/05/2026
+## Date:20/05/2026
 
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
